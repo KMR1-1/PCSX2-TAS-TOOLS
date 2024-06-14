@@ -11,6 +11,7 @@ based on Snuggles TAS TOOLS thx mate
 
 + You'll need to download vJoy
   - this is a .exe file to install a virtual controller driver in order to use with an ahk script
+  - https://sourceforge.net/projects/vjoystick/files/Beta%202.x/2.1.9.1-160719/vJoySetup.exe/download
   - search for the program "Configure vJoy" and be sure that the first controller's parameters are like this image
   - ![Capture](https://github.com/KMR1-1/PCSX2-TAS-TOOLS/assets/162009605/99729a32-d68e-4c08-8059-a3e3dc3d5093)
 
